@@ -37,8 +37,8 @@ Bayer, Torrent Pharma, Sanofi, MSD, McCann Health Dubai, Elevit Australia, and m
 
 
 ### Let's 📱 Contact, I am kinda awesome 😊 
-[![](https://img.shields.io/badge/LinkedIn-Abdulkaiyum_Shaikh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://ca.linkedin.com/in/kaiyum2012)
-[![](https://img.shields.io/badge/GitHub-Abdulkaiyum_Shaikh-%23181717?logo=github)](https://github.com/kaiyum2012)
+[![](https://img.shields.io/badge/LinkedIn-Abdulkaiyum_Shaikh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://ca.linkedin.com/in/kaiyum2024)
+[![](https://img.shields.io/badge/GitHub-Abdulkaiyum_Shaikh-%23181717?logo=github)](https://github.com/kaiyum2024)
 [![](https://img.shields.io/badge/Whatsapp-Abdulkaiyum_Shaikh-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+15195006612)
 [![](https://img.shields.io/badge/Gmail-Abdulkaiyum_Shaikh-D1483?logo=gmail&logoColor=red&labelColor=white)](mailto:abdulkaiyum.creatrix@gmail.com)
 
@@ -105,7 +105,7 @@ Bayer, Torrent Pharma, Sanofi, MSD, McCann Health Dubai, Elevit Australia, and m
 
 
 ### Achievement 🏆
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kaiyum2012&no-frame=true&theme=chalk" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kaiyum2024&no-frame=true&theme=chalk" /></a> </p>
 
 ### Activity Graph 📈
 ![](https://activity-graph.herokuapp.com/graph?username=kaiyum2024&theme=github)
@@ -114,5 +114,5 @@ Bayer, Torrent Pharma, Sanofi, MSD, McCann Health Dubai, Elevit Australia, and m
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiyum2024&theme=vue)
 
 ### :octocat: GitHub 𝗦𝘁𝗮𝘁𝘀 📊
-[![](https://github-readme-stats.vercel.app/api?username=kaiyum2012&count_private=true&show_icons=true&border_radius=10&include_all_commits=true&theme=vue)](https://kaiyum2012.github.io/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiyum2012&theme=vue)](https://github.com/kaiyum2012/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=kaiyum2024&count_private=true&show_icons=true&border_radius=10&include_all_commits=true&theme=vue)](https://kaiyum2024.github.io/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiyum2024&theme=vue)](https://github.com/kaiyum2024/github-readme-stats)
