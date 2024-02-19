@@ -38,7 +38,6 @@ Bayer, Torrent Pharma, Sanofi, MSD, McCann Health Dubai, Elevit Australia, and m
 ### Let's 📱 Contact, I am kinda awesome 😊 
 [![](https://img.shields.io/badge/LinkedIn-Abdulkaiyum_Shaikh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://ca.linkedin.com/in/kaiyum2024)
 [![](https://img.shields.io/badge/GitHub-Abdulkaiyum_Shaikh-%23181717?logo=github)](https://github.com/kaiyum2024)
-[![](https://img.shields.io/badge/Whatsapp-Abdulkaiyum_Shaikh-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+15195006612)
 [![](https://img.shields.io/badge/Gmail-Abdulkaiyum_Shaikh-D1483?logo=gmail&logoColor=red&labelColor=white)](mailto:abdulkaiyum.creatrix@gmail.com)
 
 ### 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️
