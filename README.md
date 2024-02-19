@@ -1,4 +1,3 @@
-[![](https://img.shields.io/badge/Create-License-yellow)](https://shields.io/category/license)&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)&nbsp;
 ![](https://komarev.com/ghpvc/?username=kaiyum2024&color-brightgreen.svg)&nbsp; 
 
